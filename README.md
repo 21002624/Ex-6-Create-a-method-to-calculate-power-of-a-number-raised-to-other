@@ -26,3 +26,6 @@ public class PowerCalculator {
 }
 
 ```
+# Output
+![Screenshot (70)](https://github.com/21002624/Ex-6-Create-a-method-to-calculate-power-of-a-number-raised-to-other/assets/113762183/c26472bc-bcb4-48ca-8f71-c46b1fcf3b62)
+
